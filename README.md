@@ -1,5 +1,5 @@
 # Nginx proxy for docker with automatic nginx configuration ans SSL certificates
-## docker-compose configuration automatic configuration 
+## docker-compose example for automatic configuration 
 ```
 services:
   my-app: 
